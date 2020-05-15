@@ -1,0 +1,15 @@
+Parent	Name	Text	Icon	IconText	Shortcut	StatusTip	WhatsThis	ToolTip	triggered
+File	Save	Save			Ctrl+S				Window.widget.GraphicsView.Scene.Drawable.Pixels.save
+Animation	AddFrame	Add frame			Ins				FrameListView._FrameListView__add_frame
+Animation	InsertCopyFrame	Insert copy frame			Alt+Ins				FrameListView._FrameListView__insert_copy_frame
+Animation	DeleteFrame	Delete frame			Del				FrameListView._FrameListView__delete_frame
+Animation	SelectedPreviousFrame	Selected previous frame			Alt+Left				FrameListView._FrameListView__selected_previous_frame
+Animation	SelectedNextFrame	Selected next frame			Alt+Right				FrameListView._FrameListView__selected_next_frame
+Animation	MovePreviousFrame	Move previous frame			Ctrl+Alt+Shift+Left				FrameListView._FrameListView__move_previous_frame
+Animation	MoveNextFrame	Move next frame			Ctrl+Alt+Shift+Right				FrameListView._FrameListView__move_next_frame
+Animation	ShowDialog	Show dialog			Alt+D				AnimationDurationSetDialog.show
+Animation	StartStopAnimation	Start/Stop animation			Alt+S				AnimationWidget.Label.toggle_animation
+Draw	MoveUpSelectedPixel	Move up selected pixel			Up				GraphicView.Scene.Selected.move_up
+Draw	MoveDownSelectedPixel	Move down selected pixel			Down				GraphicView.Scene.Selected.move_down
+Draw	MoveLeftSelectedPixel	Move left selected pixel			Left				GraphicView.Scene.Selected.move_left
+Draw	MoveRightSelectedPixel	Move right selected pixel			Right				GraphicView.Scene.Selected.move_right
